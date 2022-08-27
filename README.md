@@ -21,7 +21,6 @@ const aboutMe = {
    code: [Javascript, Typescript, HTML, CSS, Python, Java],
    technologies: {
       frontEnd: {
-         js: ["React"],
          css: ["Bootstrap"]
       }
      
