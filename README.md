@@ -30,9 +30,6 @@ const aboutMe = {
 ```
 
 -----
-<a href="https://github.com/Kelly901">
-  <img src="https://komarev.com/ghpvc/?username=Kelly901&style=flat-square" />
-</a>
 
 
 ***
