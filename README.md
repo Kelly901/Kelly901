@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 ```javascript
 const aboutMe = {
  
-   code: [Javascript, Typescript, HTML, CSS, Python, Java, PHP, C++],
+   code: [Javascript, Typescript, HTML, CSS, Python, Java, PHP, c++],
    technologies: {
       frontEnd: {
          css: ["Bootstrap"]
