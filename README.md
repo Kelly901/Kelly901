@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 const aboutMe = {
  
    code: [Javascript, Typescript, HTML, CSS, Python, Java, PHP, C++],
-   DBMS: [MySql, SQL Server, Postgresql, Oracle SQL],
+   DBMS: ["MySql", "SQL Server", "Postgresql", "Oracle SQL"],
    technologies: {
       frontEnd: {
          css: ["Bootstrap"]
